@@ -18,19 +18,22 @@ The PiRacer empowers makers and students to build, modify, and innovate with the
 
 
 ## TODO for PiRacer Development
+1. **Move Camera and unneeded headers*
+   - remove the extra header not needed for the servo control
+   - move the camera next to the headers to face forward
 
-1. **Implement Battery Monitor**  
+2. **Implement Battery Monitor**  
    - Add circuitry and software support to monitor battery voltage and health.
    - Display battery status in real-time for improved usability.
 
-2. **Fix USB OTG Support**  
+3. **Fix USB OTG Support**  
    - Modify USB configuration to enable OTG (On-The-Go) functionality.
    - Ensure compatibility with peripherals and reliable data transfer.
-3. **Add Tail light LED**
+4. **Add Tail light LED**
    - Implement multicolor Tail light indicator
-4. **Add Fan header**
+5. **Add Fan header**
    - Enable FAN for additional cooling support
-5. **Add UART via serial connector headers**
+6. **Add UART via serial connector headers**
    - to enable additional debugging
 
 
