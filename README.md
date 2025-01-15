@@ -6,9 +6,9 @@ The **PiRacer** is a custom-designed PCB that serves as a cost-effective replace
 
 ## What You Need
 To get started with the PiRacer, you’ll need:
-1. **Raspberry Pi CM4 Lite**: The brain of the operation.
-2. **SD Card**: For booting and storing your project data.
-3. **PiCamera V2**: For capturing the track and enabling autonomous driving.
+1. **Raspberry Pi CM4 Lite**: 
+2. **SD Card**: 
+3. **PiCamera V2**:
 
 ---
 
