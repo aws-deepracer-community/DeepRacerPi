@@ -2,7 +2,7 @@
 
 The **PiRacer** is a custom-designed PCB that serves as a cost-effective replacement for the original AWS DeepRacer compute module. With a production and assembly cost of just **$33**, the PiRacer brings the power of the **Raspberry Pi Compute Module 4 (CM4)** and the upcoming **Compute Module 5 (CM5)** to your DIY racing projects.
 
-![PiRacer PCB](Images/PiRacer.jpg)
+<img src="Images/PiRacer.jpg" alt="PiRacer PCB" width="50%">
 
 ## What You Need
 To get started with the PiRacer, you’ll need:
@@ -46,4 +46,6 @@ The PiRacer empowers makers and students to build, modify, and innovate with the
    - https://github.com/aws-deepracer-community/deepracer-custom-car
 
 Special Thanks for Lars for all the work he did on the Deepracer-custom-car repo to make this a possibility!
+
+
 
