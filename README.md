@@ -50,5 +50,7 @@ The PiRacer empowers makers and students to build, modify, and innovate with the
 
 Special Thanks for Lars for all the work he did on the Deepracer-custom-car repo to make this a possibility!
 
+<img src="Images/drpi-cm4-firstload.png" alt="PiRacer PCB" width="50%">
+
 
 
