@@ -18,7 +18,7 @@ The PiRacer empowers makers and students to build, modify, and innovate with the
 
 
 ## TODO for PiRacer Development
-1. **Move Camera and unneeded headers*
+1. **Move Camera and unneeded headers**
    - remove the extra header not needed for the servo control
    - move the camera next to the headers to face forward
 
