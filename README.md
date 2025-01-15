@@ -16,7 +16,7 @@ The PiRacer empowers makers and students to build, modify, and innovate with the
 
 
 
-# TODO for PiRacer Development
+## TODO for PiRacer Development
 
 1. **Implement Battery Monitor**  
    - Add circuitry and software support to monitor battery voltage and health.
@@ -33,7 +33,7 @@ The PiRacer empowers makers and students to build, modify, and innovate with the
    - to enable additional debugging
 
 
-### Setting Up the board
+## Setting Up the board
 
 1. **Image SD card with  Ubuntu 22.04**
    - use win+shift+x to enable SSH and Wifi during imaging process
