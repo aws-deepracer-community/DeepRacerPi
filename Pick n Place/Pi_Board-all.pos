@@ -1,0 +1,48 @@
+### Footprint positions - created on 2024-10-19T13:03:49+0500 ###
+### Printed by KiCad version 8.0.2-rc1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                 Package                             PosX       PosY       Rot  Side
+C3        CL31A106MAHNNNE     CAP_CL31_SAM                    174.0422   -62.1709  180.0000  top
+C4        10nF_0603           CAPC1608X90                     171.6950   -65.4459  -90.0000  top
+C5        CC0805ZRY5V7BB104   CAP_CC0805_YAG-L                179.0700   -67.2209  -90.0000  top
+C6        CC0603KRX7R9BB272   CAPC1608X90                     176.2950   -72.7709   90.0000  top
+C8        22uF_1210           CAPC3225X270N                   169.9700   -76.8159   90.0000  top
+C9        22uF_1210           CAPC3225X270N                   173.2700   -76.8159   90.0000  top
+C11       22uF_1210           CAPC3225X270N                   176.5450   -76.8209   90.0000  top
+C12       100nF_0805_100V     RC0805N_YAG                     194.4500   -70.2000  180.0000  top
+C21       GRM21BR71A106KA73L  CAP_GRM21_2p15X1p4X1p4_MUR      181.4500   -58.4517   90.0000  top
+IC1       RT9742GGJ5          SOT94P280X100-5N                174.0000   -82.9000    0.0000  top
+J1        15_Pin              CON15_1X15_DRB_SFW_FCI          179.1250   -92.8750    0.0000  top
+J2        B3B-XH-A            JST_B3B-XH-A                    174.0500   -56.8000    0.0000  top
+J3        TSW-104-07-F-D      TSW-104-07-G-D_SAI              205.3850   -55.1500  -90.0000  top
+J4        61300411121         CONN_61300411121_WRE            202.1500   -73.6700   90.0000  top
+J5        TSW-104-07-F-D      TSW-104-07-G-D_SAI              205.3850   -66.1200  -90.0000  top
+J6        Micro_SD_Card_Det1  SDCARD_MOLEX_503398-1892        189.5250   -61.0250    0.0000  top
+J7        1054500101          MOLEX_1054500101                195.1250   -96.4000    0.0000  top
+J8        TSW-104-07-F-D      TSW-104-07-G-D_SAI              205.3850   -76.9950  -90.0000  top
+J9        TSW-104-07-F-D      TSW-104-07-G-D_SAI              205.3850   -87.8800  -90.0000  top
+J10       61300411121         CONN_61300411121_WRE            202.1250   -87.8500  -90.0000  top
+J11       61300411121         CONN_61300411121_WRE            202.1250   -76.9500  -90.0000  top
+J12       61300411121         CONN_61300411121_WRE            202.1500   -62.7700   90.0000  top
+L2        NR8040T3R6N         IND_TAIYO_NR8040_TAY            182.5733   -73.4250   90.0000  top
+Module1   ComputeModule4-CM4  Raspberry-Pi-4-Compute-Module   116.6500   -57.0750  -90.0000  top
+R1        RC0402JR-0710KL     RC0402N_YAG                     172.0500   -85.5500    0.0000  top
+R2        RG1608P-512-B-T5    RES_0816_SUS                    193.0266   -86.6000  180.0000  top
+R3        15.8k_0805          RESC2012X60N                    174.5200   -72.7209   90.0000  top
+R4        RC0805FR-07115KL    RC0805N_YAG-M                   171.5950   -71.7209   90.0000  top
+R6        RG1608P-512-B-T5    RES_0816_SUS                    197.0734   -86.6500  180.0000  top
+R12       RC1206FR-0722K1L    RC1206N_YAG-L                   170.4496   -68.4209  180.0000  top
+R13       RC0402JR-0710KL     RC0402N_YAG                     181.3733   -83.8750  -90.0000  top
+R14       RC0402JR-0710KL     RC0402N_YAG                     180.1983   -83.8750  -90.0000  top
+R15       RC0402JR-0710KL     RC0402N_YAG                     184.8983   -81.4500  -90.0000  top
+R16       RC0402JR-0710KL     RC0402N_YAG                     181.3733   -81.4250  -90.0000  top
+R17       RC0402JR-0710KL     RC0402N_YAG                     182.5483   -83.8750  -90.0000  top
+R18       RC0402JR-0710KL     RC0402N_YAG                     183.7233   -83.8750  -90.0000  top
+R19       RC0402JR-0710KL     RC0402N_YAG                     184.8983   -83.9000  -90.0000  top
+R21       RC0402JR-0710KL     RC0402N_YAG                     183.7233   -81.4412  -90.0000  top
+R22       RC0402JR-0710KL     RC0402N_YAG                     180.1983   -81.4250  -90.0000  top
+R23       RC0402JR-0710KL     RC0402N_YAG                     182.5483   -81.4250  -90.0000  top
+U2        PCA9685PW           SOT361-1_NXP-M                  192.1983   -76.6000    0.0000  top
+U5        AP64501SP-13        SO-8EP_DIO                      175.3133   -67.2547  -90.0000  top
+## End

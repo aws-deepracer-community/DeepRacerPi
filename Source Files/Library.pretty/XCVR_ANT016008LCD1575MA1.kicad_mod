@@ -1,0 +1,63 @@
+
+(footprint XCVR_ANT016008LCD1575MA1 (layer F.Cu) (tedit 659D81F6)
+  (descr "")
+  (attr smd)
+  (fp_text reference REF** (at 2.276757 -1.536183 0) (layer F.SilkS)
+    (effects (font (size 1.00077165354 1.00077165354) (thickness 0.15)))
+  )
+  (fp_text value XCVR_ANT016008LCD1575MA1 (at 14.353097 1.46634 0) (layer F.Fab)
+    (effects (font (size 1.00091338583 1.00091338583) (thickness 0.15)))
+  )
+  (pad 3 smd rect (at 0.0 -0.2345) (size 0.6 0.259) (layers F.Cu))
+  (pad 4 smd rect (at 0.0 0.2345) (size 0.6 0.259) (layers F.Cu))
+  (pad 1 smd rect (at -0.675 0.0) (size 0.45 0.76) (layers F.Cu))
+  (pad 2 smd rect (at 0.675 0.0) (size 0.45 0.76) (layers F.Cu))
+  (fp_line (start -0.8 -0.4) (end 0.8 -0.4) (layer F.Fab) (width 0.127))
+  (fp_line (start 0.8 -0.4) (end 0.8 0.4) (layer F.Fab) (width 0.127))
+  (fp_line (start 0.8 0.4) (end -0.8 0.4) (layer F.Fab) (width 0.127))
+  (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.127))
+  (fp_poly
+    (pts
+      (xy -0.766148 -0.364)
+      (xy 0.765 -0.364)
+      (xy 0.765 0.364546)
+      (xy -0.766148 0.364546)
+    ) (layer F.Mask) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.715763 -0.3)
+      (xy -0.55 -0.3)
+      (xy -0.55 0.30032)
+      (xy -0.715763 0.30032)
+    ) (layer F.Paste) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.550595 -0.3)
+      (xy 0.715 -0.3)
+      (xy 0.715 0.300325)
+      (xy 0.550595 0.300325)
+    ) (layer F.Paste) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.200057 -0.3)
+      (xy 0.2 -0.3)
+      (xy 0.2 -0.150043)
+      (xy -0.200057 -0.150043)
+    ) (layer F.Paste) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.200214 0.15)
+      (xy 0.2 0.15)
+      (xy 0.2 0.300321)
+      (xy -0.200214 0.300321)
+    ) (layer F.Paste) (width 0.01)
+  )
+  (fp_line (start -1.15 -0.65) (end 1.15 -0.65) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 1.15 -0.65) (end 1.15 0.65) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 1.15 0.65) (end -1.15 0.65) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -1.15 0.65) (end -1.15 -0.65) (layer F.CrtYd) (width 0.05))
+)
