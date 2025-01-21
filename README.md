@@ -1,23 +1,23 @@
-# Introducing the PiRacer: A Budget-Friendly Compute Module Replacement for AWS DeepRacer
+# Introducing the DeepRacer Pi: A Budget-Friendly Compute Module Replacement for AWS DeepRacer
 
-The **PiRacer** is a custom-designed PCB that serves as a cost-effective replacement for the original AWS DeepRacer compute module. With a production and assembly cost of just **$33**, the PiRacer brings the power of the **Raspberry Pi Compute Module 4 (CM4)** and the upcoming **Compute Module 5 (CM5)** to your DIY racing projects.
+The **DeepRacer Pi** is a custom-designed PCB that serves as a cost-effective replacement for the original AWS DeepRacer compute module. With a production and assembly cost of just **$33**, the DeepRacer Pi brings the power of the **Raspberry Pi Compute Module 4 (CM4)** and the upcoming **Compute Module 5 (CM5)** to your DIY racing projects.
 
 <img src="Images/PiRacer.jpg" alt="PiRacer PCB" width="50%">
 
 ## What You Need
-To get started with the PiRacer, you’ll need:
+To get started with the DeepRacer Pi, you’ll need:
 1. **Raspberry Pi CM4 Lite**: 
 2. **SD Card**: 
 3. **PiCamera V2**:
 
 ---
 
-The PiRacer empowers makers and students to build, modify, and innovate with their AWS DeepRacer cars. it is a small enough package to fit into 1/28th scale car significantly reducing the footprint needed for AWS DeepRacer.
+The DeepRacer Pi empowers makers and students to build, modify, and innovate with their AWS DeepRacer cars. it is a small enough package to fit into 1/28th scale car significantly reducing the footprint needed for AWS DeepRacer.
 
 
 
 
-## TODO for PiRacer Development
+## TODO for DeepRacer Pi Development
 1. **Move Camera and unneeded headers**
    - remove the extra header not needed for the servo control
    - move the camera next to the headers to face forward
